@@ -27,6 +27,10 @@ Revolutionizing your Discord music experience! Enjoy effortless control with Tri
 # Informative Commands
 <img src="https://cdn.discordapp.com/attachments/1198259484347351091/1207353899137105940/IMG_20240214_211559.jpg?ex=65df56f1&is=65cce1f1&hm=ae102efdd2ae9f9373aca39415c10c90a654ece130af7134117a701b21bfab43&" />
 
+# Quick Links
+For assistance or questions about Trixo, join our Discord server [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/7pQTSuFGXQ) . Our team is here to help with any inquiries or issues you may have. Feel free to reach out for premium-related questions too!
+
+
 # Made By
 [darknight.lyy](https://discord.com/users/1188178871049265282)
 
