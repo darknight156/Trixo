@@ -28,7 +28,11 @@ Revolutionizing your Discord music experience! Enjoy effortless control with Tri
 <img src="https://cdn.discordapp.com/attachments/1198259484347351091/1207353899137105940/IMG_20240214_211559.jpg?ex=65df56f1&is=65cce1f1&hm=ae102efdd2ae9f9373aca39415c10c90a654ece130af7134117a701b21bfab43&" />
 
 # Quick Links
-For assistance or questions about Trixo, join our Discord server [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/7pQTSuFGXQ) . Our team is here to help with any inquiries or issues you may have. Feel free to reach out for premium-related questions too!
+1. For assistance or questions about Trixo, join our Discord server [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/7pQTSuFGXQ) . Our team is here to help with any inquiries or issues you may have. Feel free to reach out for premium-related questions too!
+2. If you'd like to share feedback or invite Trixo to your server, you can find us on [Top.gg](https://top.gg/bot/1137794703111237733/vote). We appreciate your support and value your input, so feel free to leave a vote and review to help us improve. Your feedback helps us enhance the Trixo experience for all users, so don't hesitate to let us know your thoughts!
+3. 3. Ready to add Trixo to your Discord server? Click the link below to invite Trixo and enjoy seamless music playback and powerful moderation tools. Elevate your server experience with Trixo today!
+
+[Trixo](https://discord.com/api/oauth2/authorize?client_id=1137794703111237733&permissions=19379496208598&scope=bot)
 
 
 # Made By
