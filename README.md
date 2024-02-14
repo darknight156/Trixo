@@ -1,7 +1,6 @@
 # Trixo - Your ultimate Discord music companion!
 Trixo: Elevate your Discord server with top-notch music and versatile moderation features. Enjoy high-quality playback and intuitive commands, plus customizable prefixes for a tailored experience. Trusted by thousands, Trixo is the perfect choice for music lovers and server owners alike. Invite Trixo now and experience the difference!
 
-# Player Overview
 # Music Player Overview
 Revolutionizing your Discord music experience! Enjoy effortless control with Trixo's intuitive buttons for play, pause, skip, and rewind—making it easier than ever to manage your playlist. Dive deeper into your favorite tunes with Trixo's song details feature, offering insight into artist, album, and more. Elevate your server's music atmosphere with Trixo
 <img src="https://cdn.discordapp.com/attachments/1198259484347351091/1207362488983887963/IMG_20240214_215611.jpg?ex=65df5ef1&is=65cce9f1&hm=cefa893369c62e1127bb4958e67a966b36bf2d399c20363a8a7d5b7dd0534816&" />
