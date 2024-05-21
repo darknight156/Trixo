@@ -1,7 +1,7 @@
-import Oras from "./structures/Client.js";
-import OrasConfig from "./setting/Config.js";
-const Config = new OrasConfig();
-const client = new Oras();
+import Trixo from "./structures/Client.js";
+import TrixoConfig from "./setting/Config.js";
+const Config = new TrixoConfig();
+const client = new Trixo();
 client.start();
 // import { AutoPoster } from "topgg-autoposter";
 // const autoposter = AutoPoster(Config.voteApi, client);
