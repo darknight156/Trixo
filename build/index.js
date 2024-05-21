@@ -1,7 +1,7 @@
 import { ClusterManager, HeartbeatManager, ReClusterManager, messageType, } from "discord-hybrid-sharding";
-import OrasConfig from "./src/setting/Config.js";
-const Config = new OrasConfig();
-const manager = new ClusterManager("./build/src/oras.js", {
+import TrixoConfig from "./src/setting/Config.js";
+const Config = new TrixoConfig();
+const manager = new ClusterManager("./build/src/trixo.js", {
     totalClusters: "auto",
     totalShards: "auto",
     respawn: true,
